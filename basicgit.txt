@@ -1,1 +1,1 @@
-Basic Tutorial for Git.
+Basic Tutorial for Git
